@@ -1,8 +1,10 @@
 # CPP
 ## What does this repository contain?
-This repository features programs in C++.
+This repository features programs in C++. It is divided into 3 folders (data structures, algorithms, and other programs) in which you can find code implementations in C++, along with an explanation of the concept.
 
 ## Can I contribute?
-Yes! :smile: If you have a program in C++ that is not in the repository, you can open up a PR.
-Also, if you can see something wrong (maybe like an error or something), you can open up a PR.
-Another suggestion is if you can think of a creative way to improve the readme.md file, you are welcome to contribute!
+Yes! :smile: you can definitely contribute!
+The following are some of the things you can do - 
+1. If you have a program written in C++ that is not in the repository you can open up a PR. You can also open up a PR if you have another way of implementing a concept in the repo.
+2. Also, if you can see something wrong (maybe like an error or something), you can open up a PR.
+3. Another suggestion is if you can think of a creative way to explain any concept using markdown, you are welcome to contribute!
