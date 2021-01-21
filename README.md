@@ -17,3 +17,7 @@ It is very easy to contribute, you may follow these steps -
 
 
 Do ⭐ the repo if you find it useful!! 😇😀😇
+
+## What to keep in mind while contributing?
+- Please make sure that your contribution is entirely your own, and not copied from some other source.
+
