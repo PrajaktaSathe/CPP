@@ -8,3 +8,6 @@
 ## Applications - 
 - Used whenever we want the output to be in the same order as the input.
 - Task scheduling in shared resources (like printers).
+
+## Video -
+https://www.youtube.com/watch?v=WEkXizP0Q44 - Check out this video to learn more about queues!
