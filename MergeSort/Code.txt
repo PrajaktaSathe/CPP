@@ -69,9 +69,11 @@ int main() {
    cout << "Array after Sorting: ";
    display(arr, n);
 }
-Output
+
+/* Output
 Enter the number of elements: 6
 Enter elements:
 14 20 78 98 20 45
 Array before Sorting: 14 20 78 98 20 45
 Array after Sorting: 14 20 20 45 78 98
+*/
