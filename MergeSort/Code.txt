@@ -1,5 +1,4 @@
-
-
+#Merge Sort
 
 #include<iostream>
 using namespace std;
@@ -70,9 +69,6 @@ int main() {
    cout << "Array after Sorting: ";
    display(arr, n);
 }
-
-
-
 Output
 Enter the number of elements: 6
 Enter elements:
