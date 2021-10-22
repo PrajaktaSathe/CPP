@@ -21,3 +21,27 @@ Do ⭐ the repo if you find it useful!! 😇😀😇
 ## What to keep in mind while contributing?
 - Please make sure that your contribution is entirely your own, and not copied from some other source.
 
+### CONTRIBUTORS
+Thanks to these wonderful peoples ✨✨:
+<a href="https://github.com/PrajaktaSathe/CPP/graphs/contributors">
+
+* @PrajaktaSathe
+* @kirti-pandey20
+* @SahilSayani
+* @jasmine-24
+* @hrishik18
+* @itsAftabAlam
+* @apeksha235
+* @shakircode
+* @Poojasingh5
+* @vg0117
+* @manika-6303
+* @dhanushreddy291
+* @PreetiBaskey
+* @HimangsKalita
+* @vivek-0110
+* @srusti610
+* @juitelavane
+* @iammohit07
+* @Himanshi1207
+</a>
