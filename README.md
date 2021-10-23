@@ -34,7 +34,6 @@ Thanks to these wonderful peoples ✨✨:
 <img src="https://avatars.githubusercontent.com/u/84583787?s=60&v=4"width="70" height="70">
 <img src="https://avatars.githubusercontent.com/u/92287955?s=60&v=4"width="70" height="70">
 <img src="https://avatars.githubusercontent.com/u/91818079?s=60&v=4"width="70" height="70">
-<img src="">
 <img src="https://avatars.githubusercontent.com/u/77720999?s=60&v=4"width="70" height="70">
 <img src="https://avatars.githubusercontent.com/u/76517652?s=60&v=4"width="70" height="70">
 <img src="https://avatars.githubusercontent.com/u/38905783?s=60&v=4"width="70" height="70">
