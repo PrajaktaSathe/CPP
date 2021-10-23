@@ -25,23 +25,23 @@ Do ⭐ the repo if you find it useful!! 😇😀😇
 Thanks to these wonderful peoples ✨✨:
 <a href="https://github.com/PrajaktaSathe/CPP/graphs/contributors">
 
-* @PrajaktaSathe
-* @kirti-pandey20
-* @SahilSayani
-* @jasmine-24
-* @hrishik18
-* @itsAftabAlam
-* @apeksha235
-* @shakircode
-* @Poojasingh5
-* @vg0117
-* @manika-6303
-* @dhanushreddy291
-* @PreetiBaskey
-* @HimangsKalita
-* @vivek-0110
-* @srusti610
-* @juitelavane
-* @iammohit07
-* @Himanshi1207
-</a>
+<img src="https://avatars.githubusercontent.com/u/63590390?v=4" width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/76398920?s=60&v=4" width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/72189595?s=60&v=4" width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/43772579?s=60&v=4"width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/72657744?s=60&v=4"width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/88653530?s=60&v=4" width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/84583787?s=60&v=4"width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/92287955?s=60&v=4"width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/91818079?s=60&v=4"width="70" height="70">
+<img src="">
+<img src="https://avatars.githubusercontent.com/u/77720999?s=60&v=4"width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/76517652?s=60&v=4"width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/38905783?s=60&v=4"width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/51876341?s=60&v=4"width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/54039401?s=60&v=4"width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/59305317?s=60&v=4"width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/79088553?s=60&v=4"width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/48864125?s=60&v=4"width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/65330953?s=60&v=4"width="70" height="70">
+<img src="https://avatars.githubusercontent.com/u/76556340?s=88&u=dbf836a083a6ccf427a2087b779cf5cdc636ace4&v=4"width="70" height="70" >
